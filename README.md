@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anagipura Ushan Malintha.
  
-- 👀 I’m interested in IT field, specially in software/game development fields.
+- 👀 I’m interested in IT field, specially in software development/ AI and game development fields.
 
 - 🌱 I’m currently enrolling in a bachelor's degree of IT and, beside of that I'm learning programming languages and studing deeply about the IT field.
 -    Currentlu I have knowledge about: HTML , CSS , C , Python , Wordpress , Photoshop , Illustrator
